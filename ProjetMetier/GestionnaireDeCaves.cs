@@ -33,9 +33,11 @@ namespace ProjetMetier
                     {
                         num++;
                     }
+                   
+                }
+            }
 
-
-                    return num;
+            return num;
         }
 
         public int NbBouteillesDeRouges(string unNomDeCave)
